@@ -1,0 +1,11 @@
+
+# Ignore python goop
+*.pyc
+__pycache__
+
+# Ignore any big files dumped into here
+*.avi
+*.mp4
+*.png
+*.jpg
+
